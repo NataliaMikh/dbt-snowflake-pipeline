@@ -104,4 +104,4 @@ dbt docs serve
 End-to-end analytics solutions for performance monitoring and decision-making | From business alignment to technical implementation
 
 [LinkedIn](https://www.linkedin.com/in/nmikh/) · [Portfolio](https://mydataportfolio.thesimple.ink/)
->>>>>>> 9eb73c47a6a2f6738c735a24f6a2121114c2f8dc
+
