@@ -1,4 +1,4 @@
-# Order Analytics Pipeline — dbt + Snowflake
+# Order Analytics Pipeline (dbt + Snowflake + PowerBI)
 
 End-to-end analytics engineering project: from raw data to business-ready fact tables, built with dbt Core and Snowflake.
 
