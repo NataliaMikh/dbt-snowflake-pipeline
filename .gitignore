@@ -1,0 +1,9 @@
+target/
+dbt_packages/
+logs/
+env/
+.env
+*.pyc
+profiles.yml
+package-lock.yml
+.DS_Store
